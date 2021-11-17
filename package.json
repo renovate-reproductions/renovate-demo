@@ -12,6 +12,7 @@
         "yarn": "1.22.5"
     },
     "dependencies": {
-        "lodash": "^4.17.20"
+        "lodash": "^4.17.20",
+        "webpack": "^5.64.0"
     }
 }
