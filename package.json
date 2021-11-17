@@ -1,14 +1,14 @@
 {
-  "name": "renovate-demo",
-  "version": "1.0.0",
-  "engines": {
-    "node": "16.4.1",
-    "npm": "7.20.1",
-    "yarn": "1.22.5"
-  },
-  "volta": {
-    "node": "16.4.1",
-    "npm": "7.20.1",
-    "yarn": "1.22.5"
-  }
+    "name": "renovate-demo",
+    "version": "1.0.0",
+    "engines": {
+        "node": "16.4.1",
+        "npm": "7.20.1",
+        "yarn": "1.22.5"
+    },
+    "volta": {
+        "node": "16.4.1",
+        "npm": "7.20.1",
+        "yarn": "1.22.5"
+    }
 }
